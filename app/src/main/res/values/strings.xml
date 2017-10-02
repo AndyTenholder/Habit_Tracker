@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="mood_hint">Mood?</string>
+    <string name="date_hint">Date?</string>
+    <string name="push_ups_hint">Push Ups?</string>
+    <string name="squats_hint">Squats?</string>
+    <string name="crunchs_hint">Crunchs?</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+</resources>

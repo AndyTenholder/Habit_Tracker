@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/edit_date"
+        android:hint="@string/date_hint"
+        android:inputType="textCapWords"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/edit_mood"
+        android:hint="@string/mood_hint"
+        android:inputType="textCapWords"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/edit_push_ups"
+        android:hint="@string/push_ups_hint"
+        android:inputType="textCapWords"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/edit_crunchs"
+        android:hint="@string/crunchs_hint"
+        android:inputType="textCapWords"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/edit_squats"
+        android:hint="@string/squats_hint"
+        android:inputType="textCapWords"/>
+
+
+</LinearLayout>
